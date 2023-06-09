@@ -59,8 +59,3 @@ body:
         happen instead? You can upload screenshots by dragging the screenshot
         file into the text box.
       placeholder: I was trying to do X... but Y kept happening...
-  - type: markdown
-    attributes:
-      value: >-
-        This template was generated with [Issue Forms
-        Creator](https://issue-forms-creator.netlify.app)
