@@ -1,0 +1,28 @@
+name: Mod Developer Support
+description: Suqweqojdijqw
+labels:
+  - help wanted
+body:
+  - type: checkboxes
+    id: fabric-api
+    attributes:
+      label: Are you using Fabric API?
+      options:
+        - label: 'Yes'
+          required: true
+        - label: 'No'
+          required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: >-
+        Describe what your problem is! What is happening? What do you expect to
+        happen instead? You can upload screenshots by dragging the screenshot
+        file into the text box.
+      placeholder: I was trying to do X... but Y kept happening...
+  - type: markdown
+    attributes:
+      value: >-
+        This template was generated with [Issue Forms
+        Creator](https://issue-forms-creator.netlify.app)
