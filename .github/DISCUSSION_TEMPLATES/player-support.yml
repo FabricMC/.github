@@ -1,0 +1,58 @@
+name: Player Support
+description: >-
+  Are you a player or server admin having an issue installing or using Fabric
+  Loader, Fabric API or Fabric mods in general?
+labels:
+  - help wanted
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        ## **Where are my Logs?**
+
+        If your game is crashing, you should definitely upload your logs!
+
+         Check out the following pages for more information on how to find your
+        log files.
+        
+        - [Finding Your Logs on Windows - FabricMC
+        Wiki](https://fabricmc.net/wiki/player:tutorials:logs_ml:windows)
+
+        - [Finding Your Logs on MacOS - FabricMC
+        Wiki](https://fabricmc.net/wiki/player:tutorials:logs_ml:mac)
+
+        It is recommended you upload your log files to https://mclo.gs/ to allow
+        easily readability and to censor any sensitive information such as
+        client tokens or personal information exposed by your operating system.
+
+        ## **Still Struggling?**
+
+        You can ask for help in the `#player-support` or `#server-admin-support`
+        channels on the [Official Fabric Discord](https://discord.gg/v6v4pMv)
+        
+        The Fabric Wiki also has a collection of tutorials for players, mostly
+        regarding installation, updating and troubleshooting of Fabric Loader.
+
+        - [Fabric Wiki - Player
+        Tutorials](https://fabricmc.net/wiki/player:tutorials:start)
+  - type: input
+    id: logs
+    attributes:
+      label: Minecraft Logs
+      description: >-
+        Upload your logs **(if applicable)** to https://mclo.gs/ and paste the
+        URL here.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: >-
+        Describe what your issue is! What is happening? What do you expect to
+        happen instead? You can upload screenshots by dragging the screenshot
+        file into the text box.
+      placeholder: I was trying to do X... but Y kept happening...
+  - type: markdown
+    attributes:
+      value: >-
+        This template was generated with [Issue Forms
+        Creator](https://issue-forms-creator.netlify.app)
