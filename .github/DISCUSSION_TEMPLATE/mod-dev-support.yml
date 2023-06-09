@@ -5,7 +5,6 @@ body:
     id: fabric-api
     attributes:
       label: Are you using Fabric API?
-      required: true
       options:
         - label: 'Yes'
         - label: 'No'
@@ -13,7 +12,6 @@ body:
     id: description
     attributes:
       label: Description
-      required: true
       description: >-
         Describe what your problem is! What is happening? What do you expect to
         happen instead? You can upload screenshots by dragging the screenshot
