@@ -6,16 +6,24 @@ body:
       value: >-
         ## **Where are my Logs?**
 
+
+
         If your game is crashing, you should definitely upload your logs!
+
+
 
          Check out the following pages for more information on how to find your
         log files.
+        
+        
         
         - [Finding Your Logs on Windows - FabricMC
         Wiki](https://fabricmc.net/wiki/player:tutorials:logs_ml:windows)
 
         - [Finding Your Logs on MacOS - FabricMC
         Wiki](https://fabricmc.net/wiki/player:tutorials:logs_ml:mac)
+        
+        
 
         It is recommended you upload your log files to https://mclo.gs/ to allow
         easily readability and to censor any sensitive information such as
@@ -26,8 +34,12 @@ body:
         You can ask for help in the `#player-support` or `#server-admin-support`
         channels on the [Official Fabric Discord](https://discord.gg/v6v4pMv)
         
+        
+        
         The Fabric Wiki also has a collection of tutorials for players, mostly
         regarding installation, updating and troubleshooting of Fabric Loader.
+
+
 
         - [Fabric Wiki - Player
         Tutorials](https://fabricmc.net/wiki/player:tutorials:start)
