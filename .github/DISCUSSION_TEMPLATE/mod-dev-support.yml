@@ -5,13 +5,13 @@ body:
     id: fabric-api
     attributes:
       label: Are you using Fabric API?
+      required: true
       options:
         - label: 'Yes'
-          required: true
         - label: 'No'
-          required: true
   - type: textarea
     id: description
+    required: true
     attributes:
       label: Description
       description: >-
