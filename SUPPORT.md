@@ -7,15 +7,18 @@ Are you a player or server admin having an issue installing or using Fabric Load
 
 You can also [create a new discussion](https://github.com/orgs/FabricMC/discussions/new?category=player-support) on the GitHub Organization page.
 
+<!-- Uncomment when pages are created.
+
 # Modpack Developer Support
 
 Are you a modpack developer having problems trying to create a modpack using Fabric?
 
-<!-- Can be uncommented when the pages are created  -->
-<!-- - [Fabric Wiki - Modpack Guides](https://fabricmc.net/wiki/modpack:start)
+- [Fabric Wiki - Modpack Guides](https://fabricmc.net/wiki/modpack:start)
 - [Fabric Wiki - Creating A Modpack Using Packwiz](https://fabricmc.net/wiki/modpack:creating_packwiz)
-- [Fabric Wiki - Creating A Modpack Using ATLauncher](https://fabricmc.net/wiki/modpack:creating_atlauncher) -->
+- [Fabric Wiki - Creating A Modpack Using ATLauncher](https://fabricmc.net/wiki/modpack:creating_atlauncher)
 - [Official Fabric Discord - `#player-support` and `#mod-dev` channels](https://discord.gg/v6v4pMv)
+
+-->
 
 # Mod Developer Support
 
