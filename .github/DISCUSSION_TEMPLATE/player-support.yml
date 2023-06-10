@@ -1,0 +1,49 @@
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        ## **Where are my Logs?**
+
+
+
+        If your game is crashing, you should definitely upload your logs!
+
+
+         Check out the following pages for more information on how to find your
+        log files.
+
+
+        - [Finding Your Logs on Windows - Fabric
+        Wiki](https://fabricmc.net/wiki/player:tutorials:logs_ml:windows)
+
+        - [Finding Your Logs on MacOS - Fabric
+        Wiki](https://fabricmc.net/wiki/player:tutorials:logs_ml:mac)
+
+        ## **Still Struggling?**
+
+        You can ask for help in the `#player-support` or `#server-admin-support`
+        channels on the [Official Fabric Discord](https://discord.gg/v6v4pMv)
+
+
+        The Fabric Wiki also has a collection of tutorials for players, mostly
+        regarding installation, updating and troubleshooting of Fabric Loader.
+
+
+
+        - [Fabric Wiki - Player
+        Tutorials](https://fabricmc.net/wiki/player:tutorials:start)
+  - type: textarea
+    id: logs
+    attributes:
+      label: Minecraft Logs
+      description: Paste your log file here.
+      render: txt
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: >-
+        Describe what your issue is! What is happening? What do you expect to
+        happen instead? You can upload screenshots by dragging the screenshot
+        file into the text box.
+      placeholder: I was trying to do X... but Y kept happening...
