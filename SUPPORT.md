@@ -35,6 +35,7 @@ If you have found a bug or issue with a tool in the Fabric toolchain, please rep
 
 - [Fabric API](https://github.com/FabricMC/fabric/issues)
 - [Yarn](https://github.com/FabricMC/yarn/issues)
+- [Fabric Loom](https://github.com/FabricMC/fabric-loom)
 - [Fabric Loader](https://github.com/FabricMC/fabric-loader/issues)
 
 A full list of repositories in the Fabric toolchain [can be found here.](https://github.com/orgs/FabricMC/repositories)
