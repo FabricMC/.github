@@ -1,13 +1,6 @@
 labels:
   - help wanted
 body:
-  - type: checkboxes
-    id: fabric-api
-    attributes:
-      label: Are you using Fabric API?
-      options:
-        - label: 'Yes'
-        - label: 'No'
   - type: textarea
     id: description
     attributes:
